@@ -1,0 +1,10 @@
+# Güvenlik (Şifre Kasası)
+.env
+
+# Python Gereksiz Dosyaları
+__pycache__/
+*.pyc
+
+# İleride kuracağımız Veritabanı (İçinde kişisel hedeflerin olacak)
+*.db
+*.sqlite3
